@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import copy
 from tqdm import tqdm
 
-BLOCK_LEN = 150
+BLOCK_LEN = 60
 STEP = 4
 
 # Define the colors of the rectangles
